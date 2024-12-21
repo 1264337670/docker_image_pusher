@@ -1,1 +1,1 @@
-redis
+openjdk:21
